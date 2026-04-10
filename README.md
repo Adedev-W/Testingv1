@@ -1,3 +1,3 @@
 # Testingv1
 
-Repositori ini digunakan untuk percobaan dan pengujian.
+This is a test repository.
